@@ -9,3 +9,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 	Adding the files corresponding to the logical change, probably one fiel at atime
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	It seems it helps to keep track of the content of the changes on any additional part of the code out of the main stramline
+How do the diagrams help you visualize the branch structure?
+	It gives a clear picture, with images, of the evolutuion of the design
